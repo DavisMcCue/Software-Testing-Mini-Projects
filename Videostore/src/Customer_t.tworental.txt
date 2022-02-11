@@ -1,0 +1,5 @@
+Rental Record for Fred
+	Lord of the Rings	30
+	Harry Potter	4.5
+Amount owed is: 34.5
+You earned: 3 frequent renter points
