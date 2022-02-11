@@ -1,0 +1,7 @@
+
+add_unit_test(test_stack_assign test_assign.cpp)
+add_unit_test(test_stack_ctor_copy test_ctor_copy.cpp)
+add_unit_test(test_stack_ctor_default test_ctor_default.cpp)
+add_unit_test(test_stack_empty test_empty.cpp)
+add_unit_test(test_stack_push_pop test_push_pop.cpp)
+add_unit_test(test_stack_swap test_swap.cpp)

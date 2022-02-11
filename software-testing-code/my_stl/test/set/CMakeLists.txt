@@ -1,0 +1,3 @@
+
+add_unit_test(test_set_default_ctor test_default_ctor.cpp)
+add_unit_test(test_set_int_ctor test_int_ctor.cpp)
